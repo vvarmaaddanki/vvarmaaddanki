@@ -101,7 +101,7 @@ Building an **AI Database Copilot** — a natural language interface that lets u
 💼 **LinkedIn:** [linkedin.com/in/vvarmaaddanki](https://www.linkedin.com/in/vvarmaaddanki/)  
 🌐 **Portfolio:** [vvarmaaddanki.github.io/varma-vision-folio](https://vvarmaaddanki.github.io/varma-vision-folio)  
 🐙 **GitHub:** [github.com/vvarmaaddanki](https://github.com/vvarmaaddanki)  
-📧 **Email:** *(add your email here)*
+📧 **Email:** *(varmakbm9@gmail.com)*
 
 ---
 
